@@ -1,5 +1,6 @@
 # Data-Analysis-for-Patient-Safety
 
+[Report](Documentation_Final.docx.pdf) (Greek)
 
 The aim of this research is to evaluate the quality and level of safety of patients in Greek hospitals. It examines the perception that patients have regarding their safety, as well as the opinions of the staff regarding the safety provided by the hospital.
 
