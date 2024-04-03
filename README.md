@@ -1,14 +1,15 @@
 # Data-Analysis-for-Patient-Safety
 
-Introduction
+
 The aim of this research is to evaluate the quality and level of safety of patients in Greek hospitals. It examines the perception that patients have regarding their safety, as well as the opinions of the staff regarding the safety provided by the hospital.
 
-Research Methodology
+Research Methodology:
+
 To conduct the research, questionnaires were initially distributed to the personnel of hospitals in the Attica region and to their patients. Two different questionnaires were used, the PMOS-30 for patients and the HSOPSC for hospital staff. Both of these questionnaires are widely used for assessing the safety culture of hospitals and produce valid results. The HSOPC questionnaires were sent to hospital staff in Google Forms format via email. The PMOS-30 questionnaires were given to patients in printed form for completion.
 
 After gathering a satisfactory amount of data from both questionnaires, statistical analysis of the results was conducted to draw conclusions regarding the opinions of patients and staff regarding the safety culture of the hospital. The conclusions take into account the opinions of both patients and staff collectively. Finally, the personal and demographic data of the participants are analyzed in relation to their scores on the questions in order to determine which groups of participants have a positive or negative opinion about the safety of hospitals.
 
-Method of Statistical Data Analysis
+Method of Statistical Data Analysis:
 
 After collecting the samples, the questionnaires were checked for adequacy in responses, and 24 questionnaires from the HSOPSC and 38 from the PMOS-30 were excluded. Subsequently, the responses from the PMOS-30 questionnaire were digitized and transferred into an Excel format.
 
